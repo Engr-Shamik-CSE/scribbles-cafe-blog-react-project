@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top       +10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev", 
+            "es6", 
+            "react", 
+            "development"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    },
+     {
+        "id": 5,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Understanding Closures in JavaScript with Real Examples",
+        "author_img": "https://i.ibb.co.com/HfPJ6cDB/Abraham-Baker.png",
+        "author": "Bilal Ahmed",
+        "posted_date": "May 22, 2023",
+        "reading_time": 7,
+        "hashtags": [
+            "javascript",
+            "closures"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "Mastering Flexbox: The Ultimate Guide",
+        "author_img": "https://i.ibb.co.com/vCq6rCHL/Adem-Lane.png",
+        "author": "Marium Zafar",
+        "posted_date": "April 10, 2023",
+        "reading_time": 6,
+        "hashtags": [
+            "css",
+            "flexbox"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "How to Use Async/Await in Modern JavaScript",
+        "author_img": "https://i.ibb.co.com/1fGXk2h1/Adil-Floyd.png",
+        "author": "Saad Qureshi",
+        "posted_date": "March 18, 2023",
+        "reading_time": 8,
+        "hashtags": [
+            "javascript",
+            "async"
+        ]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "A Beginner’s Guide to REST APIs",
+        "author_img": "https://i.ibb.co.com/svb7TbKH/Adriana-O-Sullivan.png",
+        "author": "Fatima Noor",
+        "posted_date": "February 27, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "api",
+            "beginners"
+        ]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "State Management in React: Context API vs Redux",
+        "author_img": "https://i.ibb.co.com/zWN5Kpwm/Alec-Whitten.png",
+        "author": "Imran Khan",
+        "posted_date": "January 15, 2023",
+        "reading_time": 11,
+        "hashtags": [
+            "react",
+            "state"
+        ]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "How to Deploy a Website Using Netlify",
+        "author_img": "https://i.ibb.co.com/1wCnSyx/Alesha-Barry.png",
+        "author": "Sara Malik",
+        "posted_date": "December 20, 2022",
+        "reading_time": 4,
+        "hashtags": [
+            "deployment",
+            "netlify"
+        ]
+    },
+    {
+        "id": 11,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Understanding the Document Object Model (DOM)",
+        "author_img": "https://i.ibb.co.com/RTmz5yPg/Ali-Mahdi.png",
+        "author": "Rizwan Ali",
+        "posted_date": "November 12, 2022",
+        "reading_time": 6,
+        "hashtags": [
+            "javascript",
+            "dom"
+        ]
+    },
+    {
+        "id": 12,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "CSS Grid: A Practical Introduction for Developers",
+        "author_img": "https://i.ibb.co.com/B501dL3z/Aliah-Lane.png",
+        "author": "Hina Riaz",
+        "posted_date": "October 30, 2022",
+        "reading_time": 7,
+        "hashtags": [
+            "css",
+            "grid"
+        ]
+    },
+    {
+        "id": 13,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Event Loop in JavaScript Explained with Diagrams",
+        "author_img": "https://i.ibb.co.com/vvMkYjwZ/Ammar-Foley.png",
+        "author": "Adnan Shah",
+        "posted_date": "September 8, 2022",
+        "reading_time": 9,
+        "hashtags": [
+            "javascript",
+            "eventloop"
+        ]
+    },
+    {
+        "id": 14,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "Top 15 VS Code Extensions for Web Developers",
+        "author_img": "https://i.ibb.co.com/bMMJCmXZ/Amanda-Lowery.png",
+        "author": "Zara Mehmood",
+        "posted_date": "August 2, 2022",
+        "reading_time": 5,
+        "hashtags": [
+            "tools",
+            "vscode"
+        ]
+    }
+]
+
